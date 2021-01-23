@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Feature1-2!");
+            Console.WriteLine("Feature2-2!");
         }
     }
 }
